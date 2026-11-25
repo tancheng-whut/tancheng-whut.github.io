@@ -17,14 +17,14 @@ url: "https://tancheng-whut.github.io"  # 👉把 YOUR_USERNAME 修改为你的�
 
 author:
   name           : "Cheng Tan"
-  avatar         : "images/profile.jpg"
+  avatar         : "/images/profile.jpg"
   bio            : "I am a Lecturer at Wuhan University of Technology, with research focuses on data security, blockchain security, and AI for software security and coding."
   location       : "Wuhan, China"
   email          : "cheng_tan@whut.edu.cn"
 
   orcid          : "0000-0002-2110-9529"
   google_scholar : ""
-  github         : ""
+  github         : "https://github.com/tancheng-whut"
   researchgate   : ""
 
 # Social links，模板会自动渲染图标
@@ -104,10 +104,7 @@ og_image                 : og-image.png   # Social media default site image (liv
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+
 
 
 # Analytics
@@ -157,7 +154,6 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"

@@ -5,8 +5,8 @@ permalink: /publication/2022-nss
 excerpt: ''
 date: 2022-12-09
 venue: 'Network and System Security (NSS)'
-paperurl: ''
-citation: 'Zhuang Zhou, **Cheng Tan**, Shiyun Liu, Rongwei Yu, Siwei Wu, *Shengwu Xiong*. BSB: Bringing safe browsing to blockchain platform. *Network and System Security (NSS)*, Denarau Island, Fiji, Dec 9-12, 2022.'
+paperurl: '/files/tan-nss2022.pdf'
+citation: 'Zhuang Zhou, **Cheng Tan**\*, Shiyun Liu, Rongwei Yu, Siwei Wu, Shengwu Xiong. BSB: Bringing safe browsing to blockchain platform. *Network and System Security (NSS)*, Denarau Island, Fiji, Dec 9-12, 2022.'
 doi: ''
 ---
 
@@ -14,4 +14,5 @@ doi: ''
 
 > Please fill your abstract here.
 
-\* *: corresponding author; **: myself*
+\* **: myself; *: corresponding author; †: equal contribution
+

@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: "Home"
+permalink: /
 excerpt: "About Cheng Tan"
 layout: archive
 author_profile: true
@@ -16,6 +16,10 @@ I teach undergraduate courses *Principles and Technologies of Big Data* and *Blo
 - Data Security
 - AI for software security and coding
 
+### Selected Publications
+- Making contract users safer: Toward building a Safe Browsing platform on Ethereum. ISA Transactions, 2023.
+- BSB: Bringing safe browsing to blockchain platform, Network and System Security, 2022.
+
 ### Education
 - **Ph.D. in Information Security**, Wuhan University, 2011‑09 — 2018‑06, Supervisor: Professor Lina Wang
 - **B.Eng. in Information Security**, Wuhan University, 2007‑09 — 2011‑06
@@ -24,6 +28,5 @@ I teach undergraduate courses *Principles and Technologies of Big Data* and *Blo
 - **Lecturer**, Wuhan University of Technology, 2020‑07 — Present
 - **Research Assistant**, City University of Hong Kong, 2018‑10 — 2019‑12
 
-\* *: corresponding author; **: myself; †: equal contribution*
 
 [Download CV](/files/cv.pdf){:.btn .btn--primary}
